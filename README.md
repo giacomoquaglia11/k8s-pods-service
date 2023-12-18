@@ -1,5 +1,5 @@
 # k8s-pods-service
-Kubernetes - Create Cluster with Terraform and create Pods and Service, of type Load Balancer with manifest yaml 
+Kubernetes - create Cluster with Terraform and create Pods and Service, of type Load Balancer with manifest yaml 
 
 Goal:
 - An HTML page rendering the text "MY CONTAINER - NAME" will be browsable at the URL http://<IP>:80/
