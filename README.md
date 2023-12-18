@@ -19,3 +19,5 @@ Expectations:
 - The work, to be considered done, should be pushed in the git repository "tutoring_giacomo-quaglia_terraform-001"
   - branch name: "tickets/<current_ticket_id>"
   - in the root directory should be present all code used
+
+![tickets-SXPDEVOG-475](https://github.com/giacomoquaglia11/k8s-pods-service/assets/153645847/40375934-42f4-4cb2-b245-111ce4108e2e)
