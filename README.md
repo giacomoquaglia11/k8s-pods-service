@@ -4,7 +4,7 @@ Kubernetes - create Cluster with Terraform and create Pods and Service, of type 
 Goal:
 - An HTML page rendering the text "MY CONTAINER - NAME" will be browsable at the URL http://<IP>:80/
   - Where "NAME" is the pod name that is serving the response
-  - Where "<IP>" is a Public IP associated to a Kubernetes Service of type Load Balancer
+  - Where "IP" is a Public IP associated to a Kubernetes Service of type Load Balancer
 
 Expectations:
 - Everything will done by code, no manual action will be considered in the review
